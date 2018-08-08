@@ -2,6 +2,7 @@
 # Compiled class file
 *.class
 *.xml
+workspace.xml
 
 # Log file
 *.log
